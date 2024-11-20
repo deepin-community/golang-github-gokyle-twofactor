@@ -1,16 +1,3 @@
-## `twofactor`
-
-[![GoDoc](https://godoc.org/github.com/gokyle/twofactor?status.svg)](https://godoc.org/github.com/gokyle/twofactor)
-[![Build Status](https://travis-ci.org/gokyle/twofactor.svg?branch=master)](https://travis-ci.org/gokyle/twofactor)
-
-### Author
-
-`twofactor` was written by Kyle Isom <kyle@tyrfingr.is>.
-
-
-### License
-
-```
 Copyright (c) 2017 Kyle Isom <kyle@imap.cc>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -30,4 +17,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```

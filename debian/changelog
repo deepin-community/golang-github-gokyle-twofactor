@@ -1,5 +1,23 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-gokyle-twofactor (1.0.1-1.1) unstable; urgency=medium
 
-  * Initial release
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Holger Levsen <holger@debian.org>  Sat, 09 Jan 2021 16:26:38 +0100
+
+golang-github-gokyle-twofactor (1.0.1-1) unstable; urgency=medium
+
+  [ Michael Stapelberg ]
+  * update debian/gitlab-ci.yml (using salsa.debian.org/go-team/ci/cmd/ci)
+
+  [ Michael Meskes ]
+  * New upstream version 1.0.1
+  * Bumped Standards-Version
+
+ -- Michael Meskes <meskes@debian.org>  Sun, 22 Apr 2018 17:06:39 +0200
+
+golang-github-gokyle-twofactor (0.0~git20170918.eaad188-1) unstable; urgency=medium
+
+  * Initial release (Closes: #890198)
+
+ -- Michael Meskes <meskes@debian.org>  Sat, 10 Feb 2018 13:01:18 +0100
